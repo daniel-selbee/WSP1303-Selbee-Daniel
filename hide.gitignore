@@ -1,0 +1,4 @@
+#hide files that I do not want on git repository
+
+_DS_Store
+.psd
